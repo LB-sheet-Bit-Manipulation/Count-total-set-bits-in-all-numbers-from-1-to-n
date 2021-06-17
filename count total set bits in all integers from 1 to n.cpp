@@ -3,10 +3,6 @@
 //Find set bits for each integer(already done such Q)   >> TC O(logn) 
 //                                                      >> Total TC O(nlogn) 
 
-//Issue:
-//TC ko O(n) ya O(logn) pe laao.Its O(nlogn) currently
-
-
 #include<iostream>
 
 using namespace std;
